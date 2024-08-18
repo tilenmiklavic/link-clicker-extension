@@ -24,7 +24,7 @@
     "inject-script": {
       "suggested_key": {
         "default": "Ctrl+U",
-        "mac": "Command+U"
+        "mac": "Command+I"
       },
       "description": "Inject a script on the page"
     }
